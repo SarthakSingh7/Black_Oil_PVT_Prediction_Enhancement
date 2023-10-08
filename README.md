@@ -4,7 +4,7 @@
 Dataset Description (Taranaki Basin, New Zealand)
 Data Cleaning and Preprocessing
 Feature Selection and Correlation Analysis
-Model Training (Random Forest and XGBoost)
+Model Training (Linear Regression, Random Forest, Gradient Boost, AdaBoost and XGBoost)
 Performance Evaluation Metrics (R2 Score)
 Results and Discussion
 
