@@ -13,10 +13,14 @@ Performance Evaluation Metrics (R2 Score, MAE, MSE, RMSE, MAPE, Max error)
 
 Results and Discussion
 
-Comparative Analysis of Random Forest and XGBoost
-Correlation Plots and Feature Importance Analysis
-Scatter Plots and KDE plots
+Comparative Analysis of models
+
+Correlation Plots
+
+Scatter Plots, residual plots and KDE plots
+
 Residual Analysis
+
 Conclusion
 
 ## Requirements and Dependencies
