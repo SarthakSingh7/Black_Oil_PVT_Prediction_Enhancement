@@ -2,10 +2,15 @@
 
 ## Study Approach
 Dataset Description: PVT data (Taranaki Basin, New Zealand)
+
 Data Cleaning and Preprocessing
+
 Feature Selection and Correlation Analysis
+
 Model Training (Linear Regression, Random Forest, Gradient Boost, AdaBoost and XGBoost)
+
 Performance Evaluation Metrics (R2 Score, MAE, MSE, RMSE, MAPE, Max error)
+
 Results and Discussion
 
 Comparative Analysis of Random Forest and XGBoost
