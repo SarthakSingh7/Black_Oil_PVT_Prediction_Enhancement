@@ -1,8 +1,5 @@
 # Black Oil PVT Prediction Enhancement
 
-![Oil FVF model result](https://github.com/SarthakSingh7/Black_Oil_PVT_Prediction_Enhancement/assets/75946168/67aebe97-34ad-4df9-b372-0174178fe5e4)
-![Sol GOR result](https://github.com/SarthakSingh7/Black_Oil_PVT_Prediction_Enhancement/assets/75946168/64bff71e-2fcb-4042-9dc1-b88d3fc215d5)
-
 ## Study Approach
 Dataset Description: PVT data (Taranaki Basin, New Zealand)
 
@@ -49,6 +46,10 @@ Run the training scripts for both Random Forest and XGBoost models.
 Evaluate model performance using provided evaluation scripts.
 Interpret and visualize the results using the provided visualization scripts.
 Contribute to the repository by implementing improvements or extensions.
+
+![Oil FVF model result](https://github.com/SarthakSingh7/Black_Oil_PVT_Prediction_Enhancement/assets/75946168/67aebe97-34ad-4df9-b372-0174178fe5e4)
+![Sol GOR result](https://github.com/SarthakSingh7/Black_Oil_PVT_Prediction_Enhancement/assets/75946168/64bff71e-2fcb-4042-9dc1-b88d3fc215d5)
+
 
 ## Contact Information
 For inquiries, questions, or collaborations, please contact ***Sarthak Singh*** at sarthaks66@gmail.com or [https://www.linkedin.com/in/sarthaksingh7/]
