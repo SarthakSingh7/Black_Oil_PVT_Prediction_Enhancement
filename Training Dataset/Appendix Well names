@@ -1,0 +1,40 @@
+The original source of dataset is: https://data.gns.cri.nz/mapservice/apps/pbe/index.html?content=/mapservice/Content/PBE_Home1.html 
+****************************************************
+The training data for ML models is taken from the following wells:
+Amokura-1
+Cheal-A3X
+Kaimiro-2
+Kauri-A2_BHS
+Kauri-A2_Sep
+Kauri-F1
+Kora-1_Sep
+Kora-1_BHS
+Kora-1A
+Maari-1_M2A
+Maari-1_Moki
+Maari-1_Kapuni
+Maari-2
+Maui-4
+Maui-B-1(R)
+Maui-B-3(V)_Sep
+Maui-B-3(V)_BHS
+Maui-B-8(P)
+Maui-B-11(Z)
+McKee-2
+Moki-1
+Ngaere-3
+Ngatoro-2
+Pouri-1A
+Pukemai-1B
+Surrey-1
+Toetoe-1A
+Toetoe-2B_BHS
+Toetoe-2B_Sep
+Tuhua-1
+Tuhua-2B
+Tui-1
+Waihapa-1C
+Waihapa-4
+****************************************************
+Blind test data is taken from:
+Goldie-1_BHS
